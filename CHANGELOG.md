@@ -1,7 +1,5 @@
 # Change Log
-All notable changes to the "horla-light-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## v0.0.1
 
-## [Unreleased]
-- Initial release
+- Fork of [Horla Light Theme](https://github.com/Horla74/Horla-Light-Theme) with metadata mods

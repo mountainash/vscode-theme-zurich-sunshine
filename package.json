@@ -1,22 +1,41 @@
 {
-    "name": "horla-light-theme",
-    "displayName": "Horla Light Theme",
-    "description": "A light theme",
-    "version": "0.0.3",
-    "publisher": "Horla",
-    "engines": {
-        "vscode": "^1.22.0"
+    "name": "zurich-sunshine-theme",
+    "displayName": "Zürich Sunshine Theme",
+    "description": "A theme optimised for use on glossy monitors in bright offices",
+    "version": "0.0.1",
+    "publisher": "@mountainash",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mountainash/vscode-theme-zurich-sunshine"
+    },
+    "galleryBanner": {
+        "color": "#d6e4dc",
+        "theme": "light"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "calm",
+        "quiet",
+        "Light Theme",
+        "light",
+        "theme",
+        "muted",
+        "glossy",
+        "shiny",
+        "color"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Horla",
+                "label": "Zürich Sunshine",
                 "uiTheme": "vs",
-                "path": "./themes/Horla-color-theme.json"
+                "path": "./themes/zurich-sunshine-theme.json"
             }
         ]
+    },
+    "engines": {
+        "vscode": "^1.75.1"
     }
 }
